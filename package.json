@@ -1,12 +1,23 @@
 {
-    "name": "Nodejs-rest",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "dev": "nodemon src/index.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+  "name": "Nodejs-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanRiveros19/Nodejs-rest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IvanRiveros19/Nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/IvanRiveros19/Nodejs-rest#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
